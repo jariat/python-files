@@ -1,7 +1,7 @@
 #list uses indicis to access the values
 my_intergers = [2,5,8,9,2]
 print(my_intergers[4])
-my_relatives = ["Junior","Janat","Jamilah","Fatia","Faridah","shifat","Kakyo"]
+my_relatives = ["JuniorM","Janat","Jamilah","Fatia","Faridah","shifat","Kakyo"]
 print(my_relatives[2])
 my_intergers.append(10)
 print(my_intergers)
